@@ -138,7 +138,7 @@ p.saa{
 }
 .nomes{
 	font-size: 20px;
-	margin-top: 20px;
+	margin-top: 42px;
 
 }
 #cala{
@@ -198,4 +198,20 @@ p.saa{
 }
 .h{
 	color: #B10944;
+}
+#baixo{
+	background-color: #00688B;
+	height: 200px;
+	margin-top: 50px;
+}
+#profundo{
+	background-color: #0B243B;
+
+}
+#escrita{
+	margin-top: 30px;
+	color: #8DB6CD;
+	height: 80px;
+	
+
 }
