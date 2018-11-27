@@ -150,7 +150,7 @@ p.saa{
 }
 .mes {
 
-	font: bold 12px verdana;
+	font: bold 12px ;
 	background: #A9A9F5;
 	text-align: center;
 	line-height: 25px;				
@@ -162,7 +162,7 @@ p.saa{
 			}
 .semana {
 
-	font: bold 12px verdana;
+	font: bold 12px ;
 	background:#A9A9F5;
 	text-align: center;
 	line-height: 25px;						  
@@ -174,7 +174,7 @@ p.saa{
 .dia {
 
 	background: #A9A9F5;
-	font: 12px verdana;				  
+	font: 12px ;				  
 	text-align: center;
 	height: 100px;
 	width: 150px;
@@ -214,4 +214,17 @@ p.saa{
 	height: 80px;
 	
 
+}
+#cu{
+	color: #0B243B;
+	font-size: 50px;
+	margin-top: 50px;
+}
+#cursoos{
+	font-size: 30px;
+	margin-top: 30px;
+	color:  #0B243B;
+}
+#textocurso{
+	
 }
