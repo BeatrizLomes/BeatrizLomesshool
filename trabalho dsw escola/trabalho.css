@@ -226,5 +226,18 @@ p.saa{
 	color:  #0B243B;
 }
 #textocurso{
+	margin-top: 20px;
 	
+}
+#tipo{
+	color:  #0B243B;
+	font-size: 40px;
+	margin-left: 60px;
+	font-weight: bold;
+	margin-top: 20px;
+
+}
+.imagemcurso{
+	width: 110%;
+	height: 150px;
 }
