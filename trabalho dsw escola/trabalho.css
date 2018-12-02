@@ -241,3 +241,24 @@ p.saa{
 	width: 110%;
 	height: 150px;
 }
+#evento{
+	font-size: 50px;
+	color: #0B243B;
+	font-weight: bold;
+	margin-top: 50px;
+}
+#halo{
+	color: #36648B;
+	font-weight: bold;
+	font-size: 35px;
+	margin-top: 30px;
+}
+#fotohalo{
+	width: 100%;
+	height: 300px;
+	margin-top: 20px;
+
+}
+.fos{
+	width: 1300px;
+}
